@@ -6,4 +6,7 @@ double rate =9.9;
 print(name +" "+ year.toString());
 print("Login : "+ isLogin.toString());
 print("Rate : "+ rate.toString());
+
+
+
 }
